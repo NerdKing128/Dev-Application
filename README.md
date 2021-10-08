@@ -14,3 +14,9 @@ You may apply for developer by making an issue.
 
 
 **You must have past development experience and be able to show it.**
+
+
+**You must be 13+ to apply.**
+
+
+**You must have 0 active warns to apply.**
