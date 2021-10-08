@@ -17,8 +17,8 @@ assignees: ''
 
 
 # Do you have any active manual warns?
-[ ] Yes
-[ ] No
+- [ ] Yes
+- [ ] No
 
 # Do you have any past experience with coding in JS and Discord.js?
 
